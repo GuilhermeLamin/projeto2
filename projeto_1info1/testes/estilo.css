@@ -1,0 +1,10 @@
+.pequenas{
+	width: 100%;
+}
+
+.pequenas img{
+	width: 25%;
+	float: left;
+	margin-left: 10px;
+	cursor: pointer;
+}

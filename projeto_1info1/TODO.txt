@@ -1,0 +1,10 @@
+Tarefas por Disciplina
+-- listar as disciplinas a partir do ofertas.csv
+
+
+detalhaProfessor
+-- listar as disciplinas ministradas pelo professor (ofertas.csv)
+
+
+insereProfessor - verificar se está logado /V
+
